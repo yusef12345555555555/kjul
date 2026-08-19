@@ -1,0 +1,6 @@
+{
+  "name": "Net3allem - نتعلم",
+  "description": "تجربة سينمائية تفاعلية لمفهوم تبادل المعرفة والمهارات بين الطلاب",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
